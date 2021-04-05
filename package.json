@@ -1,0 +1,17 @@
+{
+  "name": "Slayers-Giveaway-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.3",
+    "ms": "^2.1.3"
+  }
+}
